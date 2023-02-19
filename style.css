@@ -144,7 +144,7 @@ img {
                   .carousel {
                     position: relative;
                     width: 100%;
-                    max-width: 800px;
+                    max-width:auto ;
                     margin: 0 auto;
                     overflow: hidden;
                   }
